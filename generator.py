@@ -1,7 +1,3 @@
-# DECODED BY HYPER X SQUAD >>> TOP 1 
-# @decoded_softs
-
-
 import random
 import string
 import uuid
